@@ -1,0 +1,14 @@
+C:\Users\dwightmopas\Desktop\Programming Projects\wpfapp\DMWPFApp\DMWPFApp\bin\Debug\DMWPFApp.exe.config
+C:\Users\dwightmopas\Desktop\Programming Projects\wpfapp\DMWPFApp\DMWPFApp\bin\Debug\DMWPFApp.exe
+C:\Users\dwightmopas\Desktop\Programming Projects\wpfapp\DMWPFApp\DMWPFApp\bin\Debug\DMWPFApp.pdb
+C:\Users\dwightmopas\Desktop\Programming Projects\wpfapp\DMWPFApp\DMWPFApp\obj\Debug\DMWPFApp.csprojResolveAssemblyReference.cache
+C:\Users\dwightmopas\Desktop\Programming Projects\wpfapp\DMWPFApp\DMWPFApp\obj\Debug\Greetings.g.cs
+C:\Users\dwightmopas\Desktop\Programming Projects\wpfapp\DMWPFApp\DMWPFApp\obj\Debug\App.g.cs
+C:\Users\dwightmopas\Desktop\Programming Projects\wpfapp\DMWPFApp\DMWPFApp\obj\Debug\DMWPFApp_MarkupCompile.cache
+C:\Users\dwightmopas\Desktop\Programming Projects\wpfapp\DMWPFApp\DMWPFApp\obj\Debug\DMWPFApp_MarkupCompile.lref
+C:\Users\dwightmopas\Desktop\Programming Projects\wpfapp\DMWPFApp\DMWPFApp\obj\Debug\Greetings.baml
+C:\Users\dwightmopas\Desktop\Programming Projects\wpfapp\DMWPFApp\DMWPFApp\obj\Debug\DMWPFApp.g.resources
+C:\Users\dwightmopas\Desktop\Programming Projects\wpfapp\DMWPFApp\DMWPFApp\obj\Debug\DMWPFApp.Properties.Resources.resources
+C:\Users\dwightmopas\Desktop\Programming Projects\wpfapp\DMWPFApp\DMWPFApp\obj\Debug\DMWPFApp.csproj.GenerateResource.Cache
+C:\Users\dwightmopas\Desktop\Programming Projects\wpfapp\DMWPFApp\DMWPFApp\obj\Debug\DMWPFApp.exe
+C:\Users\dwightmopas\Desktop\Programming Projects\wpfapp\DMWPFApp\DMWPFApp\obj\Debug\DMWPFApp.pdb

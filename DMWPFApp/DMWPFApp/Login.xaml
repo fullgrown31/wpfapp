@@ -1,0 +1,22 @@
+﻿<Window x:Class="DMWPFApp.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DMWPFApp"
+        mc:Ignorable="d"
+        Title="Login" Height="330" Width="300" FontSize="14" Background="LightGray">
+    <Border Background="#2e3137" CornerRadius= "20" Margin = "20">
+
+        <StackPanel Margin="20">
+            <Label Content="Login" Foreground="White" FontSize="25" HorizontalAlignment="Center"/>
+            <Separator></Separator>
+            <Label Content="Username" Foreground="White"/>
+            <TextBox Name="txtUsername" Background="White" FontSize="20"/>
+            <Label Content="Password" Foreground="White"/>
+            <TextBox Name="txtPassword" Background="White" FontSize="20"/>
+            <Label Content="Forgot password?" Foreground="White" FontSize="12"/>
+            <Button Name="btnSubmit" Content="Submit" Margin="10" Foreground="#2e3137" Background="white" FontSize="15"/>
+        </StackPanel>
+    </Border>
+</Window>
